@@ -7,6 +7,8 @@ Usando a biblioteca `hashlib` que é nativa do Python, podemos transformar bytes
 from hashlib import md5, sha256
 ```
 
+***
+
 ## Criando um Hash simples
 ```python
 texto = "senha123".encode("utf8")
