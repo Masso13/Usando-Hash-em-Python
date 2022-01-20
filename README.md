@@ -2,7 +2,7 @@
  
 Usando a biblioteca `hashlib` que é nativa do Python, podemos transformar bytes em hash, deixando de ser legível pelos humanos.
 
-<br>
+
 
 ## Criando um Hash simples
 ```python
